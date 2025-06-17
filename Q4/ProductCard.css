@@ -1,0 +1,18 @@
+.product-card {
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+  transition: 0.3s ease;
+}
+.product-card:hover {
+  background-color: #e3f2fd;
+}
+.product-title {
+  font-size: 20px;
+  color: #333;
+}
+.product-price {
+  color: green;
+  font-weight: bold;
+}
+.product-desc {
+  color: #555;
+}
