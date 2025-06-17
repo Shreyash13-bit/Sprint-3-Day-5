@@ -1,0 +1,22 @@
+.layout {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
+  font-family: sans-serif;
+}
+.layout-header {
+  background-color: #282c34;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+.layout-content {
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+.layout-footer {
+  background-color: #222;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
