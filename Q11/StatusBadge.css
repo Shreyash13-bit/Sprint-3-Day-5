@@ -1,0 +1,17 @@
+.badge {
+  padding: 6px 12px;
+  border-radius: 12px;
+  color: white;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-size: 0.9rem;
+}
+.badge-success {
+  background-color: green;
+}
+.badge-error {
+  background-color: red;
+}
+.badge-warning {
+  background-color: orange;
+}
